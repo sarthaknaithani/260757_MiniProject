@@ -7,7 +7,7 @@ import webbrowser
 if not os.path.isfile("alarm_links.txt"):
     print('Creating "alarm_links.txt"...')
     with open("alarm_links.txt", "w") as link_file:
-        link_file.write("https://www.youtube.com/watch?v=_XYNLTJe2-0)
+        link_file.write("https://www.youtube.com/watch?v=_XYNLTJe2-0")
         
         
 def user_input_check(alarm_sec):
