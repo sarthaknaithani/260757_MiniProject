@@ -1,6 +1,6 @@
 # Reminder Alarm 
 ![](https://miro.medium.com/max/15484/1*3J_j9N7cfGuWvmbTuhWudw.jpeg)
-#### It happens many a times we want to watch a movie or youtube video or any important videos. My simple python project helps in doing so...
+#### It happens many a times we want to watch a movie or youtube video or any important videos at a certain time in a day. My simple python project helps in doing so...
 * Add your video link to txt file
 * Run python program 
 * Set your reminder alarm
